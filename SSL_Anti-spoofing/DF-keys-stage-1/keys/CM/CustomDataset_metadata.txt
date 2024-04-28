@@ -175,7 +175,6 @@
 - vad_14_4jhJPdJPorY.wav - - - bonafide - eval
 - vad_00_8mckC8VBDHo.wav - - - bonafide - eval
 - vad_43_4jhJPdJPorY.wav - - - bonafide - eval
-- .DS_Store - - - bonafide - eval
 - vad_02_Au_bch7bnvE.wav - - - bonafide - eval
 - vad_32_ZWNArvn5-_Y.wav - - - bonafide - eval
 - vad_02_zVVCun3C-oU.wav - - - bonafide - eval

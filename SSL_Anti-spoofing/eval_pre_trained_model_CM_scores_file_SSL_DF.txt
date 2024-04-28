@@ -1,468 +1,300 @@
-Fake/Fake_Charlotte.mp3 3.9883460998535156
-Fake/f2a1a3553464a18a1740cfc57c8ac867.mp3 -3.557595729827881
-Fake/carla_en.wav -3.0752813816070557
-Fake/en-US-DavisNeural.mp3 -3.356152057647705
-Fake/full_-MNf1Up50AJoNeQfp0_E.mp3 -3.6632864475250244
-Fake/en-US-Wavenet-I.wav -3.5265583992004395
-Fake/en-US-Standard-I.wav -3.5730695724487305
-Fake/William+US.wav -3.5196897983551025
-Fake/full_-MiaL5eChRJY36MQcht1.wav -3.587900400161743
-Fake/Narrative+Voices.mp3 -3.545232057571411
-Fake/6b5b11163b1f6f32dbeba949eaa3b3e9.mp3 -1.9875627756118774
-Fake/Obama-sample.wav -3.5806212425231934
-Fake/full_-MmMggzQYiUs1EbXmmEv.wav -2.1005613803863525
-Fake/en-US-Standard-F.wav -3.569936990737915
-Fake/download (7).wav -3.608112096786499
-Fake/en-US-Wavenet-J.wav -3.505837917327881
-Fake/full_-MiaLWod7QmTm4nX4Yxw.wav -3.4543569087982178
-Fake/full_-MNf1YAjOv08Blxke9e7.mp3 -3.619164228439331
-Fake/full_-MiaKpPcvJYhP0_4wiqV.wav -3.5254664421081543
-Fake/download (3).wav -3.433054208755493
-Fake/en-US-Standard-J.wav -3.5784547328948975
-Fake/en-US-Standard-H.wav -3.5703976154327393
-Fake/aa1d26cef0999d7df60121308a3ea289.mp3 -3.168409824371338
-Fake/ayla_ja.wav -3.5668885707855225
-Fake/en-US-NancyNeural.mp3 -3.302743911743164
-Fake/Explainer+Voices.mp3 -3.5818727016448975
-Fake/full_-MNf1VPqkdybbzkibu5J.mp3 -3.4839730262756348
-Fake/4afd90843b9214d26c3f2f7c695a6a1f.mp3 -3.5166468620300293
-Fake/download (2).wav -3.7046849727630615
-Fake/Frederick+UK.wav -3.5655033588409424
-Fake/Fake_Fin.mp3 -3.411134958267212
-Fake/download (1).wav -3.1413357257843018
-Fake/Play.ht+-+short+story.wav -3.232929229736328
-Fake/full_-MiaKc8PntSUM1tLRsYg.wav -3.235891580581665
-Fake/full_-MNf1ZsKwHKeOfJAAIkf.mp3 -3.6647284030914307
-Fake/Hudson+US.wav -3.5403316020965576
-Fake/fake_snoopdog.wav -3.5176026821136475
-Fake/ayla_en.wav -3.608301877975464
-Fake/en-US-JaneNeural.mp3 -2.390004873275757
-Fake/en-US-Standard-G.wav -3.5906736850738525
-Fake/b12e993b5ed83e24eb76f1c3412dc5ae.mp3 -3.5401721000671387
-Fake/3ae86dc151041de1e2bdbf8de03f42b3.mp3 -3.5506632328033447
-Fake/9f8c166693060e795c6dde3568aaa65c.mp3 -3.227320432662964
-Fake/download (5).wav -3.6204214096069336
-Fake/Fake_Dave.mp3 -3.4957644939422607
-Fake/Fake_TiffanyAIClonedVoice.mp3 -2.6643967628479004
-Fake/full_-MNf1ZIYtFlKVVR8wCQw.mp3 -3.647606611251831
-Fake/Fake_rock.wav -3.5677878856658936
-Fake/98ac13b3b78401cd97e498dff9fc181a.mp3 -3.4685842990875244
-Fake/fa190735c8207c4af43cfc2c1e2a4b9b.mp3 -3.4184486865997314
-Fake/Oliver+UK.wav -3.5488226413726807
-Fake/carla_pt.wav -3.5759694576263428
-Fake/fake1_1.wav -2.88960337638855
-Fake/Training+Voices.mp3 -3.5394442081451416
-Fake/fake_femalevoicesample.wav -0.5068437457084656
-Fake/Local+Accents.mp3 -3.6663897037506104
-Fake/Arthur+UK.wav -3.5443296432495117
-Fake/TomHanks.wav -3.4604945182800293
-Fake/Larry+US.wav -3.543937921524048
-Fake/full_-MNf1Vxt10koB-ObvZjU.mp3 -3.4122583866119385
-Fake/Fake_AIVoiceActor_multi_lingual.mp3 -3.41039776802063
-Fake/Susan+US.wav -3.394500970840454
-Fake/carla_de.wav -3.4978957176208496
-Fake/Anthony+US.wav -3.5201303958892822
-Fake/full_-MNf1Yk1-BA_-05yqhxY.mp3 -3.510465383529663
-Fake/full_-MNf1_R0nNHpq73eg7yr.mp3 -3.5661323070526123
-Fake/en-US-JasonNeural.mp3 1.292812705039978
-Fake/download (6).wav -3.573974370956421
-Fake/Fake_JamesAIClonedVoice.mp3 -3.2485897541046143
-Fake/485a56b665c97e535194fc3341c610f5.mp3 -3.089149236679077
-Fake/en-US-Wavenet-H.wav -3.506624460220337
-Fake/queen-elizabeth-ii-reads-god-save-the-queen-by-sex-pistols-speech-synthesis.wav -3.368720769882202
-Fake/full_-MiaHAb7oKxrafkHwoPr.wav -3.451078176498413
-Fake/KevinHart.wav -3.534126043319702
-Fake/Play.ht+-+videos.wav -3.4542477130889893
-Fake/download.wav -3.6318447589874268
-Fake/en-US-TonyNeural.mp3 -3.556809902191162
-Fake/fake_obama.wav 4.295783042907715
-Fake/Elon-Sample.wav -3.558239698410034
-Fake/en-US-Wavenet-G.wav -3.510528326034546
-Fake/Fake_Daniel.mp3 -2.806391716003418
-Fake/5b96390c6757ec91e10a23f00abddd6a.mp3 -3.43524169921875
-Fake/Character+Voices.mp3 -3.6444900035858154
-Fake/ayla_fr.wav 2.436169147491455
-Fake/Fake_GlindaAIClonedVoice.mp3 -3.1980812549591064
-Fake/en-US-Neural2-A.wav -3.4433295726776123
-Fake/Children+Voices.mp3 -3.521549940109253
-Fake/full_-MiaJyCLabOmLJv4jslu.wav -3.5281455516815186
-Fake/277effc5a338f5ed0bce01c5f2a41424.mp3 -0.7857704758644104
-Fake/NickOfferman.wav -3.575096368789673
-Fake/f01baf194fdea0329587252161bf8d35.mp3 -3.5151779651641846
-Fake/Stella+UK.wav -3.540822982788086
-Fake/Emotions.mp3 -3.3969686031341553
-Fake/dba46c933622273eace54e6c071a6216.mp3 -3.494333267211914
-Fake/z-covers-we-didnt-start-the-fire-by-billy-joel-speech-synthesis.wav -3.627420425415039
-Fake/linus-to-musk-DEMO.mp3 -3.5603578090667725
-Fake/fake_mrbeast.wav -3.2440555095672607
-Fake/full_-MiaLh7ZOVlQb2Yixn9r.wav -3.4514243602752686
-Fake/f18d5ed817e7fc015455cbb8c2354985.mp3 -3.550920009613037
-Fake/fake_elonmask.wav -3.638686418533325
-Fake/e977ed9e7fc683507d2213be20d322da.mp3 -3.525578737258911
-Fake/Neil-DeGrasse-Tyson-sample.wav -3.59330153465271
-Fake/full_-MiaHSmdqzJqJ5O8wnAV.wav -3.504948616027832
-Fake/Fake_Grace.mp3 -3.332364320755005
-Fake/full_-MiaKGhnF1wi3kbUVnED.wav -3.4835755825042725
-Fake/full_-MiaJSQIwiH93mWxCT8q.wav -3.4083778858184814
-Fake/97372c76c357858eb984a5a41230f566.mp3 -3.4915339946746826
-Fake/Dwayne-Johnson-sample.wav -3.1390278339385986
-Fake/b668b1099147702fa94922327695e7c1.mp3 -3.581127643585205
-Fake/JFK-sample.wav -3.5810272693634033
-Fake/c12ca32fca735a27b8b3fbac0fc93349.mp3 -3.1211516857147217
-Fake/5cccd90bcdcedd5ad9799700c2d5f6fa.mp3 -3.618072748184204
-Fake/a-deepfake-singularity (1).wav -3.2290022373199463
-Fake/Jordan+US.wav -3.481666326522827
-Fake/Conversational+Voices.mp3 -3.505192518234253
-Fake/JR-sample.wav -3.5562257766723633
-Fake/full_-MiaJ17yCwdyTA79U3l4.wav -0.1927270144224167
-Fake/Frankie+UK.wav -3.550990581512451
-Fake/en-US-Standard-A.wav -3.6276535987854004
-Fake/LJ050-0082_gen.wav -3.589587926864624
-Real/vad_23_vbj9tOXCBu0.wav 4.396153926849365
-Real/vad_00_zVVCun3C-oU.wav 3.331418037414551
-Real/vad_00_4jhJPdJPorY.wav -2.9667375087738037
-Real/vad_14_Au_bch7bnvE.wav -3.589782476425171
-Real/vad_02_mBflyZjG29U.wav -0.5979995131492615
-Real/vad_51_4jhJPdJPorY.wav -3.579482316970825
-Real/vad_04_vbj9tOXCBu0.wav -1.6220859289169312
-Real/vad_80_Au_bch7bnvE.wav -3.1542484760284424
-Real/vad_07_4jhJPdJPorY.wav -3.554964780807495
-Real/vad_20_SD23tzTVnKM.wav -3.0440056324005127
-Real/vad_02_akbwr49hP0A.wav -3.492739677429199
-Real/vad_17_4jhJPdJPorY.wav -3.540997266769409
-Real/vad_30_vbj9tOXCBu0.wav 3.113830804824829
-Real/vad_16_vbj9tOXCBu0.wav -2.665935754776001
-Real/vad_01_mBflyZjG29U.wav -2.9602489471435547
-Real/vad_04_D7qN0JB44ks.wav 3.6038858890533447
-Real/vad_23_4jhJPdJPorY.wav -3.5704634189605713
-Real/vad_00_doiBdZCkEWQ.wav -2.754244089126587
-Real/vad_54_4jhJPdJPorY.wav -3.559343099594116
-Real/vad_01_D7qN0JB44ks.wav -3.6174561977386475
-Real/Real_TiffanyOriginalVoice.mp3 -3.1487715244293213
-Real/vad_25_vbj9tOXCBu0.wav 3.8517000675201416
-Real/vad_119_Au_bch7bnvE.wav -3.5484397411346436
-Real/vad_32_4jhJPdJPorY.wav -3.58237624168396
-Real/vad_19_vbj9tOXCBu0.wav -2.8382136821746826
-Real/vad_00_WX_DCcvhA6c.wav -0.9819464087486267
-Real/vad_61_bn1mwPZmRJo.wav -3.2915027141571045
-Real/vad_38_4jhJPdJPorY.wav -3.6621389389038086
-Real/vad_61_Au_bch7bnvE.wav -3.527811288833618
-Real/vad_21_SD23tzTVnKM.wav -2.1067006587982178
-Real/vad_01_ZWNArvn5-_Y.wav 4.376946449279785
-Real/vad_16_lmBFzXHwkGM.wav 3.85290265083313
-Real/vad_13_4jhJPdJPorY.wav -3.6130878925323486
-Real/Central Avenue 6.wav -3.455892324447632
-Real/vad_18_ZWNArvn5-_Y.wav 0.1689668446779251
-Real/vad_24_Au_bch7bnvE.wav -3.4649479389190674
-Real/vad_03_D7qN0JB44ks.wav -3.4775538444519043
-Real/vad_20_vbj9tOXCBu0.wav 2.6842024326324463
-Real/vad_56_4jhJPdJPorY.wav -3.566178560256958
-Real/Central Avenue 2.wav -3.5120785236358643
-Real/vad_00_zeKUm7LWyAo.wav -0.06598220765590668
-Real/vad_16_ZWNArvn5-_Y.wav 3.1550180912017822
-Real/vad_28_vbj9tOXCBu0.wav -1.3221570253372192
-Real/vad_34_ZWNArvn5-_Y.wav 3.4170260429382324
-Real/vad_03_akbwr49hP0A.wav -3.465977907180786
-Real/vad_01_zVVCun3C-oU.wav -3.2098021507263184
-Real/vad_18_4jhJPdJPorY.wav -3.5883631706237793
-Real/vad_36_Au_bch7bnvE.wav -3.5856029987335205
-Fake/Fake_Charlotte.mp3 3.9883460998535156
-Fake/f2a1a3553464a18a1740cfc57c8ac867.mp3 -3.557595729827881
-Fake/carla_en.wav -3.0752813816070557
-Fake/en-US-DavisNeural.mp3 -3.356152057647705
-Fake/full_-MNf1Up50AJoNeQfp0_E.mp3 -3.6632864475250244
-Fake/en-US-Wavenet-I.wav -3.5265583992004395
-Fake/en-US-Standard-I.wav -3.5730695724487305
-Fake/William+US.wav -3.5196897983551025
-Fake/full_-MiaL5eChRJY36MQcht1.wav -3.587900400161743
-Fake/Narrative+Voices.mp3 -3.545232057571411
-Fake/6b5b11163b1f6f32dbeba949eaa3b3e9.mp3 -1.9875627756118774
-Fake/Obama-sample.wav -3.5806212425231934
-Fake/full_-MmMggzQYiUs1EbXmmEv.wav -2.1005613803863525
-Fake/en-US-Standard-F.wav -3.569936990737915
-Fake/download (7).wav -3.608112096786499
-Fake/en-US-Wavenet-J.wav -3.505837917327881
-Fake/full_-MiaLWod7QmTm4nX4Yxw.wav -3.4543569087982178
-Fake/full_-MNf1YAjOv08Blxke9e7.mp3 -3.619164228439331
-Fake/full_-MiaKpPcvJYhP0_4wiqV.wav -3.5254664421081543
-Fake/download (3).wav -3.433054208755493
-Fake/en-US-Standard-J.wav -3.5784547328948975
-Fake/en-US-Standard-H.wav -3.5703976154327393
-Fake/aa1d26cef0999d7df60121308a3ea289.mp3 -3.168409824371338
-Fake/ayla_ja.wav -3.5668885707855225
-Fake/en-US-NancyNeural.mp3 -3.302743911743164
-Fake/Explainer+Voices.mp3 -3.5818727016448975
-Fake/full_-MNf1VPqkdybbzkibu5J.mp3 -3.4839730262756348
-Fake/4afd90843b9214d26c3f2f7c695a6a1f.mp3 -3.5166468620300293
-Fake/download (2).wav -3.7046849727630615
-Fake/Frederick+UK.wav -3.5655033588409424
-Fake/Fake_Fin.mp3 -3.411134958267212
-Fake/download (1).wav -3.1413357257843018
-Fake/Play.ht+-+short+story.wav -3.232929229736328
-Fake/full_-MiaKc8PntSUM1tLRsYg.wav -3.235891580581665
-Fake/full_-MNf1ZsKwHKeOfJAAIkf.mp3 -3.6647284030914307
-Fake/Hudson+US.wav -3.5403316020965576
-Fake/fake_snoopdog.wav -3.5176026821136475
-Fake/ayla_en.wav -3.608301877975464
-Fake/en-US-JaneNeural.mp3 -2.390004873275757
-Fake/en-US-Standard-G.wav -3.5906736850738525
-Fake/b12e993b5ed83e24eb76f1c3412dc5ae.mp3 -3.5401721000671387
-Fake/3ae86dc151041de1e2bdbf8de03f42b3.mp3 -3.5506632328033447
-Fake/9f8c166693060e795c6dde3568aaa65c.mp3 -3.227320432662964
-Fake/download (5).wav -3.6204214096069336
-Fake/Fake_Dave.mp3 -3.4957644939422607
-Fake/Fake_TiffanyAIClonedVoice.mp3 -2.6643967628479004
-Fake/full_-MNf1ZIYtFlKVVR8wCQw.mp3 -3.647606611251831
-Fake/Fake_rock.wav -3.5677878856658936
-Fake/98ac13b3b78401cd97e498dff9fc181a.mp3 -3.4685842990875244
-Fake/fa190735c8207c4af43cfc2c1e2a4b9b.mp3 -3.4184486865997314
-Fake/Oliver+UK.wav -3.5488226413726807
-Fake/carla_pt.wav -3.5759694576263428
-Fake/fake1_1.wav -2.88960337638855
-Fake/Training+Voices.mp3 -3.5394442081451416
-Fake/fake_femalevoicesample.wav -0.5068437457084656
-Fake/Local+Accents.mp3 -3.6663897037506104
-Fake/Arthur+UK.wav -3.5443296432495117
-Fake/TomHanks.wav -3.4604945182800293
-Fake/Larry+US.wav -3.543937921524048
-Fake/full_-MNf1Vxt10koB-ObvZjU.mp3 -3.4122583866119385
-Fake/Fake_AIVoiceActor_multi_lingual.mp3 -3.41039776802063
-Fake/Susan+US.wav -3.394500970840454
-Fake/carla_de.wav -3.4978957176208496
-Fake/Anthony+US.wav -3.5201303958892822
-Fake/full_-MNf1Yk1-BA_-05yqhxY.mp3 -3.510465383529663
-Fake/full_-MNf1_R0nNHpq73eg7yr.mp3 -3.5661323070526123
-Fake/en-US-JasonNeural.mp3 1.292812705039978
-Fake/download (6).wav -3.573974370956421
-Fake/Fake_JamesAIClonedVoice.mp3 -3.2485897541046143
-Fake/485a56b665c97e535194fc3341c610f5.mp3 -3.089149236679077
-Fake/en-US-Wavenet-H.wav -3.506624460220337
-Fake/queen-elizabeth-ii-reads-god-save-the-queen-by-sex-pistols-speech-synthesis.wav -3.368720769882202
-Fake/full_-MiaHAb7oKxrafkHwoPr.wav -3.451078176498413
-Fake/KevinHart.wav -3.534126043319702
-Fake/Play.ht+-+videos.wav -3.4542477130889893
-Fake/download.wav -3.6318447589874268
-Fake/en-US-TonyNeural.mp3 -3.556809902191162
-Fake/fake_obama.wav 4.295783042907715
-Fake/Elon-Sample.wav -3.558239698410034
-Fake/en-US-Wavenet-G.wav -3.510528326034546
-Fake/Fake_Daniel.mp3 -2.806391716003418
-Fake/5b96390c6757ec91e10a23f00abddd6a.mp3 -3.43524169921875
-Fake/Character+Voices.mp3 -3.6444900035858154
-Fake/ayla_fr.wav 2.436169147491455
-Fake/Fake_GlindaAIClonedVoice.mp3 -3.1980812549591064
-Fake/en-US-Neural2-A.wav -3.4433295726776123
-Fake/Children+Voices.mp3 -3.521549940109253
-Fake/full_-MiaJyCLabOmLJv4jslu.wav -3.5281455516815186
-Fake/277effc5a338f5ed0bce01c5f2a41424.mp3 -0.7857704758644104
-Fake/NickOfferman.wav -3.575096368789673
-Fake/f01baf194fdea0329587252161bf8d35.mp3 -3.5151779651641846
-Fake/Stella+UK.wav -3.540822982788086
-Fake/Emotions.mp3 -3.3969686031341553
-Fake/dba46c933622273eace54e6c071a6216.mp3 -3.494333267211914
-Fake/z-covers-we-didnt-start-the-fire-by-billy-joel-speech-synthesis.wav -3.627420425415039
-Fake/linus-to-musk-DEMO.mp3 -3.5603578090667725
-Fake/fake_mrbeast.wav -3.2440555095672607
-Fake/full_-MiaLh7ZOVlQb2Yixn9r.wav -3.4514243602752686
-Fake/f18d5ed817e7fc015455cbb8c2354985.mp3 -3.550920009613037
-Fake/fake_elonmask.wav -3.638686418533325
-Fake/e977ed9e7fc683507d2213be20d322da.mp3 -3.525578737258911
-Fake/Neil-DeGrasse-Tyson-sample.wav -3.59330153465271
-Fake/full_-MiaHSmdqzJqJ5O8wnAV.wav -3.504948616027832
-Fake/Fake_Grace.mp3 -3.332364320755005
-Fake/full_-MiaKGhnF1wi3kbUVnED.wav -3.4835755825042725
-Fake/full_-MiaJSQIwiH93mWxCT8q.wav -3.4083778858184814
-Fake/97372c76c357858eb984a5a41230f566.mp3 -3.4915339946746826
-Fake/Dwayne-Johnson-sample.wav -3.1390278339385986
-Fake/b668b1099147702fa94922327695e7c1.mp3 -3.581127643585205
-Fake/JFK-sample.wav -3.5810272693634033
-Fake/c12ca32fca735a27b8b3fbac0fc93349.mp3 -3.1211516857147217
-Fake/5cccd90bcdcedd5ad9799700c2d5f6fa.mp3 -3.618072748184204
-Fake/a-deepfake-singularity (1).wav -3.2290022373199463
-Fake/Jordan+US.wav -3.481666326522827
-Fake/Conversational+Voices.mp3 -3.505192518234253
-Fake/JR-sample.wav -3.5562257766723633
-Fake/full_-MiaJ17yCwdyTA79U3l4.wav -0.1927270144224167
-Fake/Frankie+UK.wav -3.550990581512451
-Fake/en-US-Standard-A.wav -3.6276535987854004
-Fake/LJ050-0082_gen.wav -3.589587926864624
-Real/vad_23_vbj9tOXCBu0.wav 4.396153926849365
-Real/vad_00_zVVCun3C-oU.wav 3.331418037414551
-Real/vad_00_4jhJPdJPorY.wav -2.9667375087738037
-Real/vad_14_Au_bch7bnvE.wav -3.589782476425171
-Real/vad_02_mBflyZjG29U.wav -0.5979995131492615
-Real/vad_51_4jhJPdJPorY.wav -3.579482316970825
-Real/vad_04_vbj9tOXCBu0.wav -1.6220859289169312
-Real/vad_80_Au_bch7bnvE.wav -3.1542484760284424
-Real/vad_07_4jhJPdJPorY.wav -3.554964780807495
-Real/vad_20_SD23tzTVnKM.wav -3.0440056324005127
-Real/vad_02_akbwr49hP0A.wav -3.492739677429199
-Real/vad_17_4jhJPdJPorY.wav -3.540997266769409
-Real/vad_30_vbj9tOXCBu0.wav 3.113830804824829
-Real/vad_16_vbj9tOXCBu0.wav -2.665935754776001
-Real/vad_01_mBflyZjG29U.wav -2.9602489471435547
-Real/vad_04_D7qN0JB44ks.wav 3.6038858890533447
-Real/vad_23_4jhJPdJPorY.wav -3.5704634189605713
-Real/vad_00_doiBdZCkEWQ.wav -2.754244089126587
-Real/vad_54_4jhJPdJPorY.wav -3.559343099594116
-Real/vad_01_D7qN0JB44ks.wav -3.6174561977386475
-Real/Real_TiffanyOriginalVoice.mp3 -3.1487715244293213
-Real/vad_25_vbj9tOXCBu0.wav 3.8517000675201416
-Real/vad_119_Au_bch7bnvE.wav -3.5484397411346436
-Real/vad_32_4jhJPdJPorY.wav -3.58237624168396
-Real/vad_19_vbj9tOXCBu0.wav -2.8382136821746826
-Real/vad_00_WX_DCcvhA6c.wav -0.9819464087486267
-Real/vad_61_bn1mwPZmRJo.wav -3.2915027141571045
-Real/vad_38_4jhJPdJPorY.wav -3.6621389389038086
-Real/vad_61_Au_bch7bnvE.wav -3.527811288833618
-Real/vad_21_SD23tzTVnKM.wav -2.1067006587982178
-Real/vad_01_ZWNArvn5-_Y.wav 4.376946449279785
-Real/vad_16_lmBFzXHwkGM.wav 3.85290265083313
-Real/vad_13_4jhJPdJPorY.wav -3.6130878925323486
-Real/Central Avenue 6.wav -3.455892324447632
-Real/vad_18_ZWNArvn5-_Y.wav 0.1689668446779251
-Real/vad_24_Au_bch7bnvE.wav -3.4649479389190674
-Real/vad_03_D7qN0JB44ks.wav -3.4775538444519043
-Real/vad_20_vbj9tOXCBu0.wav 2.6842024326324463
-Real/vad_56_4jhJPdJPorY.wav -3.566178560256958
-Real/Central Avenue 2.wav -3.5120785236358643
-Real/vad_00_zeKUm7LWyAo.wav -0.06598220765590668
-Real/vad_16_ZWNArvn5-_Y.wav 3.1550180912017822
-Real/vad_28_vbj9tOXCBu0.wav -1.3221570253372192
-Real/vad_34_ZWNArvn5-_Y.wav 3.4170260429382324
-Real/vad_03_akbwr49hP0A.wav -3.465977907180786
-Real/vad_01_zVVCun3C-oU.wav -3.2098021507263184
-Real/vad_18_4jhJPdJPorY.wav -3.5883631706237793
-Real/vad_36_Au_bch7bnvE.wav -3.5856029987335205
-Real/vad_44_4jhJPdJPorY.wav -3.6490204334259033
-Real/vad_03_hlzbjwPRNY4.wav -3.612830877304077
-Real/vad_07_lmBFzXHwkGM.wav 3.9438722133636475
-Real/vad_19_4jhJPdJPorY.wav -3.5959856510162354
-Real/vad_06_Au_bch7bnvE.wav -3.4824981689453125
-Real/vad_10_4jhJPdJPorY.wav -3.581524610519409
-Real/vad_14_4jhJPdJPorY.wav -3.5980184078216553
-Real/vad_00_8mckC8VBDHo.wav 1.1918622255325317
-Real/vad_43_4jhJPdJPorY.wav -3.6599624156951904
-Real/vad_02_Au_bch7bnvE.wav -3.5423667430877686
-Real/vad_32_ZWNArvn5-_Y.wav 3.815842866897583
-Real/vad_02_zVVCun3C-oU.wav 2.2431652545928955
-Real/vad_31_vbj9tOXCBu0.wav -2.373849630355835
-Real/vad_50_4jhJPdJPorY.wav -3.634267568588257
-Real/vad_02_vbj9tOXCBu0.wav 1.075371503829956
-Real/Central Avenue 4.wav -3.124358892440796
-Real/vad_11_vbj9tOXCBu0.wav 4.273196220397949
-Real/Central Avenue 7.wav -2.2558255195617676
-Real/vad_36_4jhJPdJPorY.wav -3.2702929973602295
-Real/vad_01_hq7fDV3zyKg.wav -3.568061590194702
-Real/vad_34_Au_bch7bnvE.wav -3.5943686962127686
-Real/vad_07_vbj9tOXCBu0.wav 3.4925239086151123
-Real/vad_16_4jhJPdJPorY.wav -3.445232629776001
-Real/real_hindi.mp3 -3.5289182662963867
-Real/vad_24_vbj9tOXCBu0.wav 3.838193893432617
-Real/vad_12_4jhJPdJPorY.wav -3.58708119392395
-Real/vad_23_Au_bch7bnvE.wav -3.4398958683013916
-Real/vad_20_lmBFzXHwkGM.wav 4.175189971923828
-Real/vad_07_ZWNArvn5-_Y.wav 4.129728317260742
-Real/vad_04_ZWNArvn5-_Y.wav 2.6518714427948
-Real/vad_00_vbj9tOXCBu0.wav -0.9412317872047424
-Real/vad_09_vbj9tOXCBu0.wav 4.200499057769775
-Real/vad_47_4jhJPdJPorY.wav -3.606022834777832
-Real/vad_32_vbj9tOXCBu0.wav -0.2591112554073334
-Real/vad_06_zVVCun3C-oU.wav -3.2493693828582764
-Real/vad_31_4jhJPdJPorY.wav -3.4967875480651855
-Real/vad_15_lmBFzXHwkGM.wav 2.7081871032714844
-Real/vad_02_D7qN0JB44ks.wav -3.5380709171295166
-Real/vad_57_4jhJPdJPorY.wav -3.5710909366607666
-Real/Gujarati.mp3 4.276608943939209
-Real/Central Avenue 1.wav -3.547873020172119
-Real/vad_04_akbwr49hP0A.wav -3.4401705265045166
-Real/vad_15_vbj9tOXCBu0.wav -2.411738634109497
-Real/vad_19_lmBFzXHwkGM.wav 3.815234661102295
-Real/vad_02_4jhJPdJPorY.wav -3.5570647716522217
-Real/vad_00_ZWNArvn5-_Y.wav 4.188722133636475
-Real/vad_40_4jhJPdJPorY.wav -3.522178888320923
-Real/vad_22_vbj9tOXCBu0.wav 2.561720848083496
-Real/vad_58_4jhJPdJPorY.wav -1.1755927801132202
-Real/vad_00_D7qN0JB44ks.wav -3.384084463119507
-Real/Central Avenue 5.wav 0.6413513422012329
-Real/vad_37_4jhJPdJPorY.wav -3.5421559810638428
-Real/vad_11_ZWNArvn5-_Y.wav 0.020775992423295975
-Real/vad_55_4jhJPdJPorY.wav -3.5256125926971436
-Real/vad_02_hq7fDV3zyKg.wav -3.5987913608551025
-Real/vad_48_4jhJPdJPorY.wav -3.6076576709747314
-Real/vad_02_ZWNArvn5-_Y.wav 3.7856574058532715
-Real/vad_17_vbj9tOXCBu0.wav 4.039669513702393
-Real/vad_08_lmBFzXHwkGM.wav 4.214437484741211
-Real/vad_03_lxuaQDmrBg8.wav -3.3325958251953125
-Real/vad_41_4jhJPdJPorY.wav -3.6073157787323
-Real/vad_22_ZWNArvn5-_Y.wav -3.0340569019317627
-Real/vad_18_vbj9tOXCBu0.wav 0.20119412243366241
-Real/vad_01_akbwr49hP0A.wav -3.5145580768585205
-Real/vad_28_bn1mwPZmRJo.wav -3.3150694370269775
-Real/vad_04_zVVCun3C-oU.wav -1.8443524837493896
-Real/Central Avenue 3.wav -3.3424670696258545
-Real/vad_26_vbj9tOXCBu0.wav -1.6677238941192627
-Real/vad_23_SD23tzTVnKM.wav 2.1669726371765137
-Real/vad_00_U4px7ANlmck.wav 1.2310305833816528
-Real/vad_01_vbj9tOXCBu0.wav -2.267246961593628
-Real/vad_05_vbj9tOXCBu0.wav 3.5672101974487305
-Real/vad_05_4jhJPdJPorY.wav -3.464235782623291
-Real/vad_06_vbj9tOXCBu0.wav 3.9282994270324707
-Real/vad_06_ZWNArvn5-_Y.wav 4.171257495880127
-Real/vad_45_4jhJPdJPorY.wav -3.6066715717315674
-Real/vad_00_mBflyZjG29U.wav -3.592945098876953
-Real/vad_05_D7qN0JB44ks.wav -3.3705251216888428
-Real/vad_12_vbj9tOXCBu0.wav 4.1890764236450195
-Real/vad_00_hlzbjwPRNY4.wav 1.2456449270248413
-Real/vad_11_4jhJPdJPorY.wav -3.6048567295074463
-Real/vad_42_4jhJPdJPorY.wav -3.608633041381836
-Real/vad_09_4jhJPdJPorY.wav -3.486191987991333
-Real/vad_05_ZWNArvn5-_Y.wav 4.376017093658447
-Real/vad_12_ZWNArvn5-_Y.wav -1.8803423643112183
-Real/vad_03_zVVCun3C-oU.wav -3.3766143321990967
-Real/vad_49_Au_bch7bnvE.wav -3.53656268119812
-Real/vad_00_SD23tzTVnKM.wav 3.285853385925293
-Real/vad_33_4jhJPdJPorY.wav -3.615985631942749
-Real/vad_06_lmBFzXHwkGM.wav -3.364211082458496
-Real/vad_34_4jhJPdJPorY.wav -3.5689446926116943
-Real/vad_00_U7fydLHVWsg.wav -3.054755687713623
-Real/vad_25_lmBFzXHwkGM.wav -0.6090264916419983
-Real/vad_12_lmBFzXHwkGM.wav -3.5825817584991455
-Real/vad_10_vbj9tOXCBu0.wav 4.000208854675293
-Real/vad_13_vbj9tOXCBu0.wav -2.6757776737213135
-Real/vad_03_vbj9tOXCBu0.wav 0.08486880362033844
-Real/RealGlindaOriginalVoice.mp3 2.8012783527374268
-Real/vad_24_4jhJPdJPorY.wav -3.659841299057007
-Real/vad_20_ZWNArvn5-_Y.wav -2.933123826980591
-Real/vad_53_4jhJPdJPorY.wav -3.558793306350708
-Real/vad_15_4jhJPdJPorY.wav -3.5809080600738525
-Real/vad_03_ZWNArvn5-_Y.wav 3.988206386566162
-Real/vad_27_vbj9tOXCBu0.wav -3.2622830867767334
-Real/vad_35_4jhJPdJPorY.wav -3.492225408554077
-Real/vad_29_4jhJPdJPorY.wav -3.4863619804382324
-Real/vad_46_4jhJPdJPorY.wav -3.5256235599517822
-Real/vad_29_vbj9tOXCBu0.wav 2.5532751083374023
-Real/vad_15_ZWNArvn5-_Y.wav -3.0479602813720703
-Real/vad_39_4jhJPdJPorY.wav -3.6672117710113525
-Real/vad_05_zVVCun3C-oU.wav -3.0884201526641846
-Real/Real_JamesOriginalVoice.mp3 4.360502243041992
-Real/vad_49_4jhJPdJPorY.wav -3.590287685394287
-Real/vad_30_4jhJPdJPorY.wav -3.1566429138183594
-Real/vad_08_vbj9tOXCBu0.wav 3.397991180419922
-Real/vad_27_4jhJPdJPorY.wav -3.6096746921539307
-Real/vad_00_akbwr49hP0A.wav -3.5166513919830322
-Real/vad_21_vbj9tOXCBu0.wav 2.50907039642334
-Real/vad_62_bn1mwPZmRJo.wav -3.1909210681915283
-Real/vad_04_4jhJPdJPorY.wav -3.6247637271881104
-Real/vad_196_Au_bch7bnvE.wav -3.6126880645751953
-Real/vad_00_lxuaQDmrBg8.wav -0.47738519310951233
-Real/vad_03_4jhJPdJPorY.wav -3.513242244720459
-Real/vad_01_hlzbjwPRNY4.wav -3.22680401802063
-Real/vad_01_4jhJPdJPorY.wav -3.579308271408081
-Real/hindi.mp3 -3.5289182662963867
-Real/vad_60_bn1mwPZmRJo.wav -3.169093132019043
-Real/Central Avenue 9.wav 1.0280121564865112
-Real/vad_22_4jhJPdJPorY.wav -3.622896909713745
-Real/vad_14_vbj9tOXCBu0.wav 1.8875296115875244
-Real/vad_21_4jhJPdJPorY.wav -3.5591728687286377
-Real/vad_00_hq7fDV3zyKg.wav -3.5531232357025146
+Fake/Fake_Charlotte.mp3 = 3.9883460998535156
+Fake/f2a1a3553464a18a1740cfc57c8ac867.mp3 = -3.557595729827881
+Fake/carla_en.wav = -3.0752813816070557
+Fake/en-US-DavisNeural.mp3 = -3.356152057647705
+Fake/full_-MNf1Up50AJoNeQfp0_E.mp3 = -3.6632864475250244
+Fake/en-US-Wavenet-I.wav = -3.5265583992004395
+Fake/en-US-Standard-I.wav = -3.5730695724487305
+Fake/William+US.wav = -3.5196897983551025
+Fake/full_-MiaL5eChRJY36MQcht1.wav = -3.587900400161743
+Fake/Narrative+Voices.mp3 = -3.545232057571411
+Fake/6b5b11163b1f6f32dbeba949eaa3b3e9.mp3 = -1.9875627756118774
+Fake/Obama-sample.wav = -3.5806212425231934
+Fake/full_-MmMggzQYiUs1EbXmmEv.wav = -2.1005613803863525
+Fake/en-US-Standard-F.wav = -3.569936990737915
+Fake/download (7).wav = -3.608112096786499
+Fake/en-US-Wavenet-J.wav = -3.505837917327881
+Fake/full_-MiaLWod7QmTm4nX4Yxw.wav = -3.4543569087982178
+Fake/full_-MNf1YAjOv08Blxke9e7.mp3 = -3.619164228439331
+Fake/full_-MiaKpPcvJYhP0_4wiqV.wav = -3.5254664421081543
+Fake/download (3).wav = -3.433054208755493
+Fake/en-US-Standard-J.wav = -3.5784547328948975
+Fake/en-US-Standard-H.wav = -3.5703976154327393
+Fake/aa1d26cef0999d7df60121308a3ea289.mp3 = -3.168409824371338
+Fake/ayla_ja.wav = -3.5668885707855225
+Fake/en-US-NancyNeural.mp3 = -3.302743911743164
+Fake/Explainer+Voices.mp3 = -3.5818727016448975
+Fake/full_-MNf1VPqkdybbzkibu5J.mp3 = -3.4839730262756348
+Fake/4afd90843b9214d26c3f2f7c695a6a1f.mp3 = -3.5166468620300293
+Fake/download (2).wav = -3.7046849727630615
+Fake/Frederick+UK.wav = -3.5655033588409424
+Fake/Fake_Fin.mp3 = -3.411134958267212
+Fake/download (1).wav = -3.1413357257843018
+Fake/Play.ht+-+short+story.wav = -3.232929229736328
+Fake/full_-MiaKc8PntSUM1tLRsYg.wav = -3.235891580581665
+Fake/full_-MNf1ZsKwHKeOfJAAIkf.mp3 = -3.6647284030914307
+Fake/Hudson+US.wav = -3.5403316020965576
+Fake/fake_snoopdog.wav = -3.5176026821136475
+Fake/ayla_en.wav = -3.608301877975464
+Fake/en-US-JaneNeural.mp3 = -2.390004873275757
+Fake/en-US-Standard-G.wav = -3.5906736850738525
+Fake/b12e993b5ed83e24eb76f1c3412dc5ae.mp3 = -3.5401721000671387
+Fake/3ae86dc151041de1e2bdbf8de03f42b3.mp3 = -3.5506632328033447
+Fake/9f8c166693060e795c6dde3568aaa65c.mp3 = -3.227320432662964
+Fake/download (5).wav = -3.6204214096069336
+Fake/Fake_Dave.mp3 = -3.4957644939422607
+Fake/Fake_TiffanyAIClonedVoice.mp3 = -2.6643967628479004
+Fake/full_-MNf1ZIYtFlKVVR8wCQw.mp3 = -3.647606611251831
+Fake/Fake_rock.wav = -3.5677878856658936
+Fake/98ac13b3b78401cd97e498dff9fc181a.mp3 = -3.4685842990875244
+Fake/fa190735c8207c4af43cfc2c1e2a4b9b.mp3 = -3.4184486865997314
+Fake/Oliver+UK.wav = -3.5488226413726807
+Fake/carla_pt.wav = -3.5759694576263428
+Fake/fake1_1.wav = -2.88960337638855
+Fake/Training+Voices.mp3 = -3.5394442081451416
+Fake/fake_femalevoicesample.wav = -0.5068437457084656
+Fake/Local+Accents.mp3 = -3.6663897037506104
+Fake/Arthur+UK.wav = -3.5443296432495117
+Fake/TomHanks.wav = -3.4604945182800293
+Fake/Larry+US.wav = -3.543937921524048
+Fake/full_-MNf1Vxt10koB-ObvZjU.mp3 = -3.4122583866119385
+Fake/Fake_AIVoiceActor_multi_lingual.mp3 = -3.41039776802063
+Fake/Susan+US.wav = -3.394500970840454
+Fake/carla_de.wav = -3.4978957176208496
+Fake/Anthony+US.wav = -3.5201303958892822
+Fake/full_-MNf1Yk1-BA_-05yqhxY.mp3 = -3.510465383529663
+Fake/full_-MNf1_R0nNHpq73eg7yr.mp3 = -3.5661323070526123
+Fake/en-US-JasonNeural.mp3 = 1.292812705039978
+Fake/download (6).wav = -3.573974370956421
+Fake/Fake_JamesAIClonedVoice.mp3 = -3.2485897541046143
+Fake/485a56b665c97e535194fc3341c610f5.mp3 = -3.089149236679077
+Fake/en-US-Wavenet-H.wav = -3.506624460220337
+Fake/queen-elizabeth-ii-reads-god-save-the-queen-by-sex-pistols-speech-synthesis.wav = -3.368720769882202
+Fake/full_-MiaHAb7oKxrafkHwoPr.wav = -3.451078176498413
+Fake/KevinHart.wav = -3.534126043319702
+Fake/Play.ht+-+videos.wav = -3.4542477130889893
+Fake/download.wav = -3.6318447589874268
+Fake/en-US-TonyNeural.mp3 = -3.556809902191162
+Fake/fake_obama.wav = 4.295783042907715
+Fake/Elon-Sample.wav = -3.558239698410034
+Fake/en-US-Wavenet-G.wav = -3.510528326034546
+Fake/Fake_Daniel.mp3 = -2.806391716003418
+Fake/5b96390c6757ec91e10a23f00abddd6a.mp3 = -3.43524169921875
+Fake/Character+Voices.mp3 = -3.6444900035858154
+Fake/ayla_fr.wav = 2.436169147491455
+Fake/Fake_GlindaAIClonedVoice.mp3 = -3.1980812549591064
+Fake/en-US-Neural2-A.wav = -3.4433295726776123
+Fake/Children+Voices.mp3 = -3.521549940109253
+Fake/full_-MiaJyCLabOmLJv4jslu.wav = -3.5281455516815186
+Fake/277effc5a338f5ed0bce01c5f2a41424.mp3 = -0.7857704758644104
+Fake/NickOfferman.wav = -3.575096368789673
+Fake/f01baf194fdea0329587252161bf8d35.mp3 = -3.5151779651641846
+Fake/Stella+UK.wav = -3.540822982788086
+Fake/Emotions.mp3 = -3.3969686031341553
+Fake/dba46c933622273eace54e6c071a6216.mp3 = -3.494333267211914
+Fake/z-covers-we-didnt-start-the-fire-by-billy-joel-speech-synthesis.wav = -3.627420425415039
+Fake/linus-to-musk-DEMO.mp3 = -3.5603578090667725
+Fake/fake_mrbeast.wav = -3.2440555095672607
+Fake/full_-MiaLh7ZOVlQb2Yixn9r.wav = -3.4514243602752686
+Fake/f18d5ed817e7fc015455cbb8c2354985.mp3 = -3.550920009613037
+Fake/fake_elonmask.wav = -3.638686418533325
+Fake/e977ed9e7fc683507d2213be20d322da.mp3 = -3.525578737258911
+Fake/Neil-DeGrasse-Tyson-sample.wav = -3.59330153465271
+Fake/full_-MiaHSmdqzJqJ5O8wnAV.wav = -3.504948616027832
+Fake/Fake_Grace.mp3 = -3.332364320755005
+Fake/full_-MiaKGhnF1wi3kbUVnED.wav = -3.4835755825042725
+Fake/full_-MiaJSQIwiH93mWxCT8q.wav = -3.4083778858184814
+Fake/97372c76c357858eb984a5a41230f566.mp3 = -3.4915339946746826
+Fake/Dwayne-Johnson-sample.wav = -3.1390278339385986
+Fake/b668b1099147702fa94922327695e7c1.mp3 = -3.581127643585205
+Fake/JFK-sample.wav = -3.5810272693634033
+Fake/c12ca32fca735a27b8b3fbac0fc93349.mp3 = -3.1211516857147217
+Fake/5cccd90bcdcedd5ad9799700c2d5f6fa.mp3 = -3.618072748184204
+Fake/a-deepfake-singularity (1).wav = -3.2290022373199463
+Fake/Jordan+US.wav = -3.481666326522827
+Fake/Conversational+Voices.mp3 = -3.505192518234253
+Fake/JR-sample.wav = -3.5562257766723633
+Fake/full_-MiaJ17yCwdyTA79U3l4.wav = -0.1927270144224167
+Fake/Frankie+UK.wav = -3.550990581512451
+Fake/en-US-Standard-A.wav = -3.6276535987854004
+Fake/LJ050-0082_gen.wav = -3.589587926864624
+Real/vad_23_vbj9tOXCBu0.wav = 4.396153926849365
+Real/vad_00_zVVCun3C-oU.wav = 3.331418037414551
+Real/vad_00_4jhJPdJPorY.wav = -2.9667375087738037
+Real/vad_14_Au_bch7bnvE.wav = -3.589782476425171
+Real/vad_02_mBflyZjG29U.wav = -0.5979995131492615
+Real/vad_51_4jhJPdJPorY.wav = -3.579482316970825
+Real/vad_04_vbj9tOXCBu0.wav = -1.6220859289169312
+Real/vad_80_Au_bch7bnvE.wav = -3.1542484760284424
+Real/vad_07_4jhJPdJPorY.wav = -3.554964780807495
+Real/vad_20_SD23tzTVnKM.wav = -3.0440056324005127
+Real/vad_02_akbwr49hP0A.wav = -3.492739677429199
+Real/vad_17_4jhJPdJPorY.wav = -3.540997266769409
+Real/vad_30_vbj9tOXCBu0.wav = 3.113830804824829
+Real/vad_16_vbj9tOXCBu0.wav = -2.665935754776001
+Real/vad_01_mBflyZjG29U.wav = -2.9602489471435547
+Real/vad_04_D7qN0JB44ks.wav = 3.6038858890533447
+Real/vad_23_4jhJPdJPorY.wav = -3.5704634189605713
+Real/vad_00_doiBdZCkEWQ.wav = -2.754244089126587
+Real/vad_54_4jhJPdJPorY.wav = -3.559343099594116
+Real/vad_01_D7qN0JB44ks.wav = -3.6174561977386475
+Real/Real_TiffanyOriginalVoice.mp3 = -3.1487715244293213
+Real/vad_25_vbj9tOXCBu0.wav = 3.8517000675201416
+Real/vad_119_Au_bch7bnvE.wav = -3.5484397411346436
+Real/vad_32_4jhJPdJPorY.wav = -3.58237624168396
+Real/vad_19_vbj9tOXCBu0.wav = -2.8382136821746826
+Real/vad_00_WX_DCcvhA6c.wav = -0.9819464087486267
+Real/vad_61_bn1mwPZmRJo.wav = -3.2915027141571045
+Real/vad_38_4jhJPdJPorY.wav = -3.6621389389038086
+Real/vad_61_Au_bch7bnvE.wav = -3.527811288833618
+Real/vad_21_SD23tzTVnKM.wav = -2.1067006587982178
+Real/vad_01_ZWNArvn5-_Y.wav = 4.376946449279785
+Real/vad_16_lmBFzXHwkGM.wav = 3.85290265083313
+Real/vad_13_4jhJPdJPorY.wav = -3.6130878925323486
+Real/Central Avenue 6.wav = -3.455892324447632
+Real/vad_18_ZWNArvn5-_Y.wav = 0.1689668446779251
+Real/vad_24_Au_bch7bnvE.wav = -3.4649479389190674
+Real/vad_03_D7qN0JB44ks.wav = -3.4775538444519043
+Real/vad_20_vbj9tOXCBu0.wav = 2.6842024326324463
+Real/vad_56_4jhJPdJPorY.wav = -3.566178560256958
+Real/Central Avenue 2.wav = -3.5120785236358643
+Real/vad_00_zeKUm7LWyAo.wav = -0.06598220765590668
+Real/vad_16_ZWNArvn5-_Y.wav = 3.1550180912017822
+Real/vad_28_vbj9tOXCBu0.wav = -1.3221570253372192
+Real/vad_34_ZWNArvn5-_Y.wav = 3.4170260429382324
+Real/vad_03_akbwr49hP0A.wav = -3.465977907180786
+Real/vad_01_zVVCun3C-oU.wav = -3.2098021507263184
+Real/vad_18_4jhJPdJPorY.wav = -3.5883631706237793
+Real/vad_36_Au_bch7bnvE.wav = -3.5856029987335205
+Real/vad_44_4jhJPdJPorY.wav = -3.6490204334259033
+Real/vad_03_hlzbjwPRNY4.wav = -3.612830877304077
+Real/vad_07_lmBFzXHwkGM.wav = 3.9438722133636475
+Real/vad_19_4jhJPdJPorY.wav = -3.5959856510162354
+Real/vad_06_Au_bch7bnvE.wav = -3.4824981689453125
+Real/vad_10_4jhJPdJPorY.wav = -3.581524610519409
+Real/vad_14_4jhJPdJPorY.wav = -3.5980184078216553
+Real/vad_00_8mckC8VBDHo.wav = 1.1918622255325317
+Real/vad_43_4jhJPdJPorY.wav = -3.6599624156951904
+Real/vad_02_Au_bch7bnvE.wav = -3.5423667430877686
+Real/vad_32_ZWNArvn5-_Y.wav = 3.815842866897583
+Real/vad_02_zVVCun3C-oU.wav = 2.2431652545928955
+Real/vad_31_vbj9tOXCBu0.wav = -2.373849630355835
+Real/vad_50_4jhJPdJPorY.wav = -3.634267568588257
+Real/vad_02_vbj9tOXCBu0.wav = 1.075371503829956
+Real/Central Avenue 4.wav = -3.124358892440796
+Real/vad_11_vbj9tOXCBu0.wav = 4.273196220397949
+Real/Central Avenue 7.wav = -2.2558255195617676
+Real/vad_36_4jhJPdJPorY.wav = -3.2702929973602295
+Real/vad_01_hq7fDV3zyKg.wav = -3.568061590194702
+Real/vad_34_Au_bch7bnvE.wav = -3.5943686962127686
+Real/vad_07_vbj9tOXCBu0.wav = 3.4925239086151123
+Real/vad_16_4jhJPdJPorY.wav = -3.445232629776001
+Real/real_hindi.mp3 = -3.5289182662963867
+Real/vad_24_vbj9tOXCBu0.wav = 3.838193893432617
+Real/vad_12_4jhJPdJPorY.wav = -3.58708119392395
+Real/vad_23_Au_bch7bnvE.wav = -3.4398958683013916
+Real/vad_20_lmBFzXHwkGM.wav = 4.175189971923828
+Real/vad_07_ZWNArvn5-_Y.wav = 4.129728317260742
+Real/vad_04_ZWNArvn5-_Y.wav = 2.6518714427948
+Real/vad_00_vbj9tOXCBu0.wav = -0.9412317872047424
+Real/vad_09_vbj9tOXCBu0.wav = 4.200499057769775
+Real/vad_47_4jhJPdJPorY.wav = -3.606022834777832
+Real/vad_32_vbj9tOXCBu0.wav = -0.2591112554073334
+Real/vad_06_zVVCun3C-oU.wav = -3.2493693828582764
+Real/vad_31_4jhJPdJPorY.wav = -3.4967875480651855
+Real/vad_15_lmBFzXHwkGM.wav = 2.7081871032714844
+Real/vad_02_D7qN0JB44ks.wav = -3.5380709171295166
+Real/vad_57_4jhJPdJPorY.wav = -3.5710909366607666
+Real/Gujarati.mp3 = 4.276608943939209
+Real/Central Avenue 1.wav = -3.547873020172119
+Real/vad_04_akbwr49hP0A.wav = -3.4401705265045166
+Real/vad_15_vbj9tOXCBu0.wav = -2.411738634109497
+Real/vad_19_lmBFzXHwkGM.wav = 3.815234661102295
+Real/vad_02_4jhJPdJPorY.wav = -3.5570647716522217
+Real/vad_00_ZWNArvn5-_Y.wav = 4.188722133636475
+Real/vad_40_4jhJPdJPorY.wav = -3.522178888320923
+Real/vad_22_vbj9tOXCBu0.wav = 2.561720848083496
+Real/vad_58_4jhJPdJPorY.wav = -1.1755927801132202
+Real/vad_00_D7qN0JB44ks.wav = -3.384084463119507
+Real/Central Avenue 5.wav = 0.6413513422012329
+Real/vad_37_4jhJPdJPorY.wav = -3.5421559810638428
+Real/vad_11_ZWNArvn5-_Y.wav = 0.020775992423295975
+Real/vad_55_4jhJPdJPorY.wav = -3.5256125926971436
+Real/vad_02_hq7fDV3zyKg.wav = -3.5987913608551025
+Real/vad_48_4jhJPdJPorY.wav = -3.6076576709747314
+Real/vad_02_ZWNArvn5-_Y.wav = 3.7856574058532715
+Real/vad_17_vbj9tOXCBu0.wav = 4.039669513702393
+Real/vad_08_lmBFzXHwkGM.wav = 4.214437484741211
+Real/vad_03_lxuaQDmrBg8.wav = -3.3325958251953125
+Real/vad_41_4jhJPdJPorY.wav = -3.6073157787323
+Real/vad_22_ZWNArvn5-_Y.wav = -3.0340569019317627
+Real/vad_18_vbj9tOXCBu0.wav = 0.20119412243366241
+Real/vad_01_akbwr49hP0A.wav = -3.5145580768585205
+Real/vad_28_bn1mwPZmRJo.wav = -3.3150694370269775
+Real/vad_04_zVVCun3C-oU.wav = -1.8443524837493896
+Real/Central Avenue 3.wav = -3.3424670696258545
+Real/vad_26_vbj9tOXCBu0.wav = -1.6677238941192627
+Real/vad_23_SD23tzTVnKM.wav = 2.1669726371765137
+Real/vad_00_U4px7ANlmck.wav = 1.2310305833816528
+Real/vad_01_vbj9tOXCBu0.wav = -2.267246961593628
+Real/vad_05_vbj9tOXCBu0.wav = 3.5672101974487305
+Real/vad_05_4jhJPdJPorY.wav = -3.464235782623291
+Real/vad_06_vbj9tOXCBu0.wav = 3.9282994270324707
+Real/vad_06_ZWNArvn5-_Y.wav = 4.171257495880127
+Real/vad_45_4jhJPdJPorY.wav = -3.6066715717315674
+Real/vad_00_mBflyZjG29U.wav = -3.592945098876953
+Real/vad_05_D7qN0JB44ks.wav = -3.3705251216888428
+Real/vad_12_vbj9tOXCBu0.wav = 4.1890764236450195
+Real/vad_00_hlzbjwPRNY4.wav = 1.2456449270248413
+Real/vad_11_4jhJPdJPorY.wav = -3.6048567295074463
+Real/vad_42_4jhJPdJPorY.wav = -3.608633041381836
+Real/vad_09_4jhJPdJPorY.wav = -3.486191987991333
+Real/vad_05_ZWNArvn5-_Y.wav = 4.376017093658447
+Real/vad_12_ZWNArvn5-_Y.wav = -1.8803423643112183
+Real/vad_03_zVVCun3C-oU.wav = -3.3766143321990967
+Real/vad_49_Au_bch7bnvE.wav = -3.53656268119812
+Real/vad_00_SD23tzTVnKM.wav = 3.285853385925293
+Real/vad_33_4jhJPdJPorY.wav = -3.615985631942749
+Real/vad_06_lmBFzXHwkGM.wav = -3.364211082458496
+Real/vad_34_4jhJPdJPorY.wav = -3.5689446926116943
+Real/vad_00_U7fydLHVWsg.wav = -3.054755687713623
+Real/vad_25_lmBFzXHwkGM.wav = -0.6090264916419983
+Real/vad_12_lmBFzXHwkGM.wav = -3.5825817584991455
+Real/vad_10_vbj9tOXCBu0.wav = 4.000208854675293
+Real/vad_13_vbj9tOXCBu0.wav = -2.6757776737213135
+Real/vad_03_vbj9tOXCBu0.wav = 0.08486880362033844
+Real/RealGlindaOriginalVoice.mp3 = 2.8012783527374268
+Real/vad_24_4jhJPdJPorY.wav = -3.659841299057007
+Real/vad_20_ZWNArvn5-_Y.wav = -2.933123826980591
+Real/vad_53_4jhJPdJPorY.wav = -3.558793306350708
+Real/vad_15_4jhJPdJPorY.wav = -3.5809080600738525
+Real/vad_03_ZWNArvn5-_Y.wav = 3.988206386566162
+Real/vad_27_vbj9tOXCBu0.wav = -3.2622830867767334
+Real/vad_35_4jhJPdJPorY.wav = -3.492225408554077
+Real/vad_29_4jhJPdJPorY.wav = -3.4863619804382324
+Real/vad_46_4jhJPdJPorY.wav = -3.5256235599517822
+Real/vad_29_vbj9tOXCBu0.wav = 2.5532751083374023
+Real/vad_15_ZWNArvn5-_Y.wav = -3.0479602813720703
+Real/vad_39_4jhJPdJPorY.wav = -3.6672117710113525
+Real/vad_05_zVVCun3C-oU.wav = -3.0884201526641846
+Real/Real_JamesOriginalVoice.mp3 = 4.360502243041992
+Real/vad_49_4jhJPdJPorY.wav = -3.590287685394287
+Real/vad_30_4jhJPdJPorY.wav = -3.1566429138183594
+Real/vad_08_vbj9tOXCBu0.wav = 3.397991180419922
+Real/vad_27_4jhJPdJPorY.wav = -3.6096746921539307
+Real/vad_00_akbwr49hP0A.wav = -3.5166513919830322
+Real/vad_21_vbj9tOXCBu0.wav = 2.50907039642334
+Real/vad_62_bn1mwPZmRJo.wav = -3.1909210681915283
+Real/vad_04_4jhJPdJPorY.wav = -3.6247637271881104
+Real/vad_196_Au_bch7bnvE.wav = -3.6126880645751953
+Real/vad_00_lxuaQDmrBg8.wav = -0.47738519310951233
+Real/vad_03_4jhJPdJPorY.wav = -3.513242244720459
+Real/vad_01_hlzbjwPRNY4.wav = -3.22680401802063
+Real/vad_01_4jhJPdJPorY.wav = -3.579308271408081
+Real/hindi.mp3 = -3.5289182662963867
+Real/vad_60_bn1mwPZmRJo.wav = -3.169093132019043
+Real/Central Avenue 9.wav = 1.0280121564865112
+Real/vad_22_4jhJPdJPorY.wav = -3.622896909713745
+Real/vad_14_vbj9tOXCBu0.wav = 1.8875296115875244
+Real/vad_21_4jhJPdJPorY.wav = -3.5591728687286377
+Real/vad_00_hq7fDV3zyKg.wav = -3.5531232357025146
