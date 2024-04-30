@@ -27,7 +27,7 @@ submit_file = sys.argv[1]
 truth_dir = sys.argv[2]
 phase = sys.argv[3]
 
-cm_key_file = os.path.join(truth_dir, 'CM/for-2seconds_metadata.txt')
+cm_key_file = os.path.join(truth_dir, 'CM/CustomDataset_metadata.txt')
 
 
 def eval_to_score_file(score_file, cm_key_file):
@@ -63,7 +63,7 @@ def eval_to_score_file(score_file, cm_key_file):
         'EER': eer_cm,
         'AUC': auc_cm
     }
-    with open('eer_auc_finetuned_for_dataset.json', 'w') as f:
+    with open('eer_auc_finetuned_custom_dataset.json', 'w') as f:
         json.dump(dic, f, indent=2)
     return eer_cm
 
