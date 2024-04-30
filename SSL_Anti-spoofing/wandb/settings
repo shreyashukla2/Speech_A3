@@ -1,0 +1,5 @@
+[default]
+entity = shukla-12
+project = Speech_A3
+base_url = https://api.wandb.ai
+

@@ -1,1088 +1,1088 @@
-- real/file237.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1068.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file212.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1311.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1288.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1362.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2065.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1159.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file536.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file554.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1481.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1617.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2063.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file589.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2245.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1958.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file191.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file598.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file685.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1846.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file762.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1464.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file235.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file478.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file697.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1731.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1870.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1569.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1504.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1265.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file130.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2117.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2174.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1735.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2201.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2100.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1781.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file884.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1190.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1618.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file755.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2242.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2062.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file666.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1044.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1182.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1813.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2218.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1986.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file819.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file325.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file164.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file886.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1715.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1885.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1977.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file489.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1997.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2093.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1495.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1266.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1361.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file973.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file505.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file322.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1968.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1953.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1589.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file627.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1729.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2219.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1316.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file413.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1059.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1542.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file19.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1127.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file517.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file224.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1412.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2049.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1279.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file936.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1786.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1097.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2118.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1611.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file965.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file913.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1633.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file749.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1587.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file704.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file92.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file321.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1213.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1211.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1800.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file972.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1557.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1743.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1985.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1727.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1278.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file463.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1630.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1513.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2009.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file678.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1726.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1237.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file706.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1578.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1974.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file800.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1725.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file859.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1251.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2138.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1701.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1595.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1274.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file272.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file35.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file497.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file707.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1638.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file509.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file855.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file656.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file76.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file277.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file967.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file241.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file634.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file291.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1961.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1591.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file784.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file615.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1575.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file357.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file411.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file3.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1260.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1505.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file278.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1276.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1331.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1221.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file961.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file609.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file447.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1954.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file867.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file68.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1089.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1328.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1654.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file963.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file81.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1554.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1783.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1009.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file396.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1556.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file136.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file43.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file661.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file6.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1409.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1851.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file67.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file292.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1075.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1151.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1305.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1022.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1805.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file951.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file316.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2082.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2101.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file746.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file863.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1926.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1259.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file960.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file223.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file584.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file271.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file781.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1520.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file524.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1774.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2204.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file975.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file911.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file939.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file826.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file664.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file475.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file953.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file803.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2184.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1694.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1785.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file139.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file724.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file401.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2185.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file841.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1723.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1083.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1006.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1312.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1571.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file917.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2099.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file365.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1396.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file264.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1208.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1821.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file962.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1746.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file118.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file811.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2078.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1605.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file978.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1248.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1833.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1273.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file619.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1911.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1586.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1032.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1839.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1114.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file629.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file479.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file362.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1489.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2176.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file903.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file521.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file713.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file748.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file29.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1282.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file77.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file387.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1536.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1818.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1830.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2037.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2191.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2259.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1123.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file48.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file632.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2000.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1539.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2192.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1031.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file361.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1039.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1315.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file453.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1322.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2193.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1963.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1177.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2208.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1650.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file569.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file528.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file727.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file572.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2074.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file160.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1262.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1074.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file474.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1337.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file977.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1360.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file335.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1698.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1771.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file937.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1809.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file487.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1410.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file318.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file416.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1810.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1975.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file797.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file40.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1183.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file400.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file31.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file207.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1649.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file929.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2149.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file114.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file10.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1921.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1604.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file928.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1764.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1281.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1204.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1382.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file992.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file122.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1487.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1497.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file729.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2005.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file646.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file700.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2137.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file805.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1482.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1565.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1340.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2129.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file296.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file438.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file701.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2033.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2190.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1249.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1342.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1943.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1551.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file376.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1245.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file302.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1711.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1087.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file556.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file209.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2096.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1992.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file955.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1130.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file773.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1827.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1899.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file926.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2014.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1766.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1525.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file801.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file115.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file639.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file808.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1374.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1566.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1574.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file117.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file616.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file133.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file383.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file857.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file858.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file544.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1445.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1847.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1826.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1755.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1246.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1093.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file763.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1684.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1501.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file419.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1730.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file45.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file904.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1222.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file374.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1101.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file200.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1814.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1709.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1674.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1234.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file827.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file33.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1644.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file210.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1459.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1740.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file52.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file696.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2179.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file41.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1641.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file820.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file486.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1573.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2121.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1699.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2059.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file211.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2069.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file420.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file788.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file680.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file179.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file798.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2039.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file74.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1402.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file84.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1394.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1581.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1125.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1474.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1994.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1080.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1306.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file560.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file183.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file464.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file657.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1385.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2067.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2226.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2018.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1529.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file969.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1180.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1499.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file787.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2152.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file817.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file147.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1137.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file561.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file124.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1393.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1437.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1625.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1590.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2248.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file148.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file352.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1521.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file493.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file273.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2148.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1142.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1453.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1816.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1198.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file134.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file458.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1637.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1973.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file861.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1462.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1270.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1456.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file642.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2024.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1109.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file583.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file121.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1485.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1806.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file899.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file166.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2066.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1950.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2238.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1196.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file337.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2256.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file390.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file25.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1010.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1207.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1759.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file752.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file427.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file849.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file226.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file660.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file168.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1088.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1297.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1548.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2244.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1257.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1631.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file890.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file154.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1817.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1913.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1882.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2030.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1395.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file720.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file161.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1397.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file373.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1216.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file716.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file229.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1419.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file317.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1428.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file1425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file941.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file127.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file170.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file2038.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file769.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- real/file655.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - bonafide
-- fake/file1965.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file714.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2297.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file49.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file966.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2011.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2063.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file368.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file582.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file589.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1250.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file263.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file129.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file191.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1284.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file762.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1000.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file478.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1603.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1904.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1265.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file130.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1651.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file812.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file246.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2242.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2062.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file666.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1490.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file71.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file377.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1612.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2217.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1813.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1933.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1745.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file819.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file164.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2019.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file312.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1491.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file490.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file489.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1997.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file257.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file651.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1433.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file457.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1361.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file37.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file907.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file709.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1524.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file507.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1354.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file322.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1909.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1953.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1782.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file512.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2043.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1979.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2219.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2364.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1325.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1767.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file677.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file775.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1349.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file19.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2177.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file517.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file224.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1253.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1412.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1097.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2263.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1429.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file878.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1971.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1802.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file372.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file26.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1518.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1811.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file39.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file972.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2036.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1793.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file328.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1186.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file88.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1323.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file732.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1680.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file350.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2285.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1630.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1513.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2009.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file692.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file410.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file579.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file738.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file116.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2222.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1053.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2104.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1701.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file596.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file272.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file866.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file563.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file707.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file310.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file708.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file893.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file725.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file285.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2154.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1373.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2298.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1321.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1961.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1070.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file622.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1600.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1029.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file13.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file126.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1447.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file227.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1054.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1372.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file294.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1331.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1102.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1221.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2266.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1269.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file867.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1378.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1714.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1895.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1328.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file155.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file995.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2146.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file989.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file549.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file280.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1871.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file963.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file997.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file577.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file81.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file908.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1193.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file306.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file473.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2198.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file412.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2097.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file364.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file254.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1001.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1021.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2168.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1352.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1678.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2194.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2323.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1854.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1048.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1409.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file578.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file251.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1171.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1075.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file823.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file56.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1305.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2267.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1172.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2082.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1607.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file532.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file668.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1286.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1231.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file981.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file435.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2064.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1046.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1868.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1381.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file42.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file703.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1784.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file603.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file911.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1442.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1790.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1056.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file826.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file803.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1549.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file557.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1694.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file952.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file462.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1317.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file391.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file243.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2185.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1723.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1083.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file599.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2060.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1346.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file365.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file91.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file761.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1451.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2142.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1334.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1836.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file288.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1821.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1779.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1718.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1703.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file938.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1129.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file688.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2089.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1917.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file450.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file433.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1135.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1722.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2171.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1121.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file905.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1761.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2225.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1280.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file459.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file574.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1791.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2116.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1717.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2079.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file287.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file163.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file595.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1780.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1922.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1724.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1749.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file384.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1839.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file298.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file502.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file611.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file483.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file629.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1585.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file492.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1223.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1149.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1099.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1296.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file16.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file385.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file868.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1045.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file511.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1898.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1443.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file477.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1098.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file356.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file591.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1750.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file77.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file964.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1655.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1830.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file712.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file167.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1452.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2000.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file338.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2284.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file699.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1650.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2274.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file727.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file572.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file534.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1390.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1074.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1220.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1408.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file331.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file406.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file937.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1988.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1809.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1841.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file487.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1398.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1663.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1875.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2186.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file527.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file797.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1376.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1183.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1604.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file928.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1067.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1764.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file152.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2003.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1204.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file881.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file320.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file776.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1478.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file646.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2360.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1983.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1640.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file805.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2162.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2305.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1133.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1340.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file90.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1559.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file296.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2048.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1313.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file735.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1047.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1152.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1551.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1245.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file302.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1087.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file178.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1294.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file209.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1018.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1972.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1562.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1530.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1616.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1170.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1510.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1496.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1416.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1827.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file284.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1544.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2301.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1174.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1920.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2014.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1150.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1525.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1292.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file830.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1940.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file801.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2232.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1914.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2027.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2215.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file196.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file442.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2103.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1874.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2058.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file956.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file217.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1801.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1978.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1438.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1867.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1445.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1847.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2115.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file340.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1684.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1501.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1730.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1674.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1644.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file210.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file537.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file920.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2367.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file658.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file100.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file388.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1693.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1339.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file612.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file262.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1552.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file788.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file680.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file730.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file546.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file72.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2039.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file113.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file260.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1901.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file794.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1687.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file182.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file180.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1162.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file24.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2345.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1999.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1125.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1415.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1421.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file332.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1306.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1277.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file79.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file932.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file575.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2209.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1675.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1768.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2178.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file184.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1038.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2277.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1106.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file843.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1529.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1157.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2200.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2227.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file107.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2144.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file817.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1430.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file984.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1330.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file147.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2283.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1773.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file561.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1614.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file89.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2233.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1005.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2254.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file564.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2236.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1377.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1448.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file65.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2181.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2139.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file935.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1521.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1379.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1104.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2261.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file836.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file134.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file605.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1637.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1973.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file633.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file470.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file409.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1270.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2212.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2024.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file583.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1485.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1040.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1657.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1842.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file840.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2304.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file899.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1422.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1613.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file694.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1019.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file390.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file931.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file851.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file25.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1010.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file87.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1268.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file226.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file660.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file452.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file61.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file485.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2044.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2040.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1631.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file890.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file504.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2022.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file156.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file625.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1004.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file519.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file127.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file2085.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file394.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1838.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file1263.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
-- fake/file655.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav - - spoof
+real/file237.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1068.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file212.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1311.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1288.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1362.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2065.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1159.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file536.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file554.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1481.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1617.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2063.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file589.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2245.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1958.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file191.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file598.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file685.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1846.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file762.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1464.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file235.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file478.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file697.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1731.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1870.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1569.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1504.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1265.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file130.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2117.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2174.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1735.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2201.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2100.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1781.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file884.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1190.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1618.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file755.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2242.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2062.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file666.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1044.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1182.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1813.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2218.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1986.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file819.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file325.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file164.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file886.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1715.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1885.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1977.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file489.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1997.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2093.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1495.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1266.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1361.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file973.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file505.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file322.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1968.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1953.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1589.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file627.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1729.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2219.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1316.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file413.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1059.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1542.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file19.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1127.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file517.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file224.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1412.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2049.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1279.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file936.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1786.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1097.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2118.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1611.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file965.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file913.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1633.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file749.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1587.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file704.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file92.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file321.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1213.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1211.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1800.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file972.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1557.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1743.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1985.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1727.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1278.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file463.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1630.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1513.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2009.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file678.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1726.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1237.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file706.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1578.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1974.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file800.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1725.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file859.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1251.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2138.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1701.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1595.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1274.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file272.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file35.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file497.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file707.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1638.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file509.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file855.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file656.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file76.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file277.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file967.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file241.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file634.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file291.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1961.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1591.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file784.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file615.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1575.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file357.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file411.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file3.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1260.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1505.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file278.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1276.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1331.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1221.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file961.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file609.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file447.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1954.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file867.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file68.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1089.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1328.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1654.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file963.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file81.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1554.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1783.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1009.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file396.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1556.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file136.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file43.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file661.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file6.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1409.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1851.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file67.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file292.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1075.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1151.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1305.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1022.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1805.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file951.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file316.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2082.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2101.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file746.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file863.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1926.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1259.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file960.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file223.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file584.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file271.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file781.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1520.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file524.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1774.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2204.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file975.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file911.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file939.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file826.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file664.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file475.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file953.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file803.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2184.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1694.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1785.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file139.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file724.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file401.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2185.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file841.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1723.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1083.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1006.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1312.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1571.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file917.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2099.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file365.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1396.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file264.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1208.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1821.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file962.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1746.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file118.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file811.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2078.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1605.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file978.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1248.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1833.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1273.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file619.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1911.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1586.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1032.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1839.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1114.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file629.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file479.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file362.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1489.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2176.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file903.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file521.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file713.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file748.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file29.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1282.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file77.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file387.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1536.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1818.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1830.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2037.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2191.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2259.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1123.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file48.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file632.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2000.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1539.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2192.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1031.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file361.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1039.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1315.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file453.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1322.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2193.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1963.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1177.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2208.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1650.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file569.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file528.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file727.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file572.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2074.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file160.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1262.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1074.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file474.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1337.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file977.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1360.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file335.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1698.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1771.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file937.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1809.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file487.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1410.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file318.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file416.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1810.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1975.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file797.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file40.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1183.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file400.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file31.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file207.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1649.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file929.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2149.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file114.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file10.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1921.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1604.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file928.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1764.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1281.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1204.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1382.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file992.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file122.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1487.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1497.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file729.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2005.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file646.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file700.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2137.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file805.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1482.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1565.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1340.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2129.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file296.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file438.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file701.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2033.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2190.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1249.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1342.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1943.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1551.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file376.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1245.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file302.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1711.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1087.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file556.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file209.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2096.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1992.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file955.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1130.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file773.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1827.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1899.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file926.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2014.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1766.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1525.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file801.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file115.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file639.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file808.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1374.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1566.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1574.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file117.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file616.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file133.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file383.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file857.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file858.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file544.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1445.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1847.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1826.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1755.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1246.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1093.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file763.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1684.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1501.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file419.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1730.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file45.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file904.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1222.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file374.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1101.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file200.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1814.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1709.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1674.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1234.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file827.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file33.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1644.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file210.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1459.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1740.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file52.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file696.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2179.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file41.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1641.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file820.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file486.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1573.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2121.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1699.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2059.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file211.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2069.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file420.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file788.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file680.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file179.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file798.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2039.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file74.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1402.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file84.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1394.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1581.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1125.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1474.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1994.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1080.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1306.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file560.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file183.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file464.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file657.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1385.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2067.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2226.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2018.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1529.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file969.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1180.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1499.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file787.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2152.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file817.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file147.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1137.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file561.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file124.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1393.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1437.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1625.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1590.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2248.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file148.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file352.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1521.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file493.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file273.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2148.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1142.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1453.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1816.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1198.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file134.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file458.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1637.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1973.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file861.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1462.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1270.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1456.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file642.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2024.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1109.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file583.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file121.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1485.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1806.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file899.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file166.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2066.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1950.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2238.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1196.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file337.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2256.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file390.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file25.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1010.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1207.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1759.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file752.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file427.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file849.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file226.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file660.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file168.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1088.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1297.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1548.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2244.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1257.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1631.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file890.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file154.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1817.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1913.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1882.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2030.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1395.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file720.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file161.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1397.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file373.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1216.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file716.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file229.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1419.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file317.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1428.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file1425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file941.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file127.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file170.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file2038.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file769.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+real/file655.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1965.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file714.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2297.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file49.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file966.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2011.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2063.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file368.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file582.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file589.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1250.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file263.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file129.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file191.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1284.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file762.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1000.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file478.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1603.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1904.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1265.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file130.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1651.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file812.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file246.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2242.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2062.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file666.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1490.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file71.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file377.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1612.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2217.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1813.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1933.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1745.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file819.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file164.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2019.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file312.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1491.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file490.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file489.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1997.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2128.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file257.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file651.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1433.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file457.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1361.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file37.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file907.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file709.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1524.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file507.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1354.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file322.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1909.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1953.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1782.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file512.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2043.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1979.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2219.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2364.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1325.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1767.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file677.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file775.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1349.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1110.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file19.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2177.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file517.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file224.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1253.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1412.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1097.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2263.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1429.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file878.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1971.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1802.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file372.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file26.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1518.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1811.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file39.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file972.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2036.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1793.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file328.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1186.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file88.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1323.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file732.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1680.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file350.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2285.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1630.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1513.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2009.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file692.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file410.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file579.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file738.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file116.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2222.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1053.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2104.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1701.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file596.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file272.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file866.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file563.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file707.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file310.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file708.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file893.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file725.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file285.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2154.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1373.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2298.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1321.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1961.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1070.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file622.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1600.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1029.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file13.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file126.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1447.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file227.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1054.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1372.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file294.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1331.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1102.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1221.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2266.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1269.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file867.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1378.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1714.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1895.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1328.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file155.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file995.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2146.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file989.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file549.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file280.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1871.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file963.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file997.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file577.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file81.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file908.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1193.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file306.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file473.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2198.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file412.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2097.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file364.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file254.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1001.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1021.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2168.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1352.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1678.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2194.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2323.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1854.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1048.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1409.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file578.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file251.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1171.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1359.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1075.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file823.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file56.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1305.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2267.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1172.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2082.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1607.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file532.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file668.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1286.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1231.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file981.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file435.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2064.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1046.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1868.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1381.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file42.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file703.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1784.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file603.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file911.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1442.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1790.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1056.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file826.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file803.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1549.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file557.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1694.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file952.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file462.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1317.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file391.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file243.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2185.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1723.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1083.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file599.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2060.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1346.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file365.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file91.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file761.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1451.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2142.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1334.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1836.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file288.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1821.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1779.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1718.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1703.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file938.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1129.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file688.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2089.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1917.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file450.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file433.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1135.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1722.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2171.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1121.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file905.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1761.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2225.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1280.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file459.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file574.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1791.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2116.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1717.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2079.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file287.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file163.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file595.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1780.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1922.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1724.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1749.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file384.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1839.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file298.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file502.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file611.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file483.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file629.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1585.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file492.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1223.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1149.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1099.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1296.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file16.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file385.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file868.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1045.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file511.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1898.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1443.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file477.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1098.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file356.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file591.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1750.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file77.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file964.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1655.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1830.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file712.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file167.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1452.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2000.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file338.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2284.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file699.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1650.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2274.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file727.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file572.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file534.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1390.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1074.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1220.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1408.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file331.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file406.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file937.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1988.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1809.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1841.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file487.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1398.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1663.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1875.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2186.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file527.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file797.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1376.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1183.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1604.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file928.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1067.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1764.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file152.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2003.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1204.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file881.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file320.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file776.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1478.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file646.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2360.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1983.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1640.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file805.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2162.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2305.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1133.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1340.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file90.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1559.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file296.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2048.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1313.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file735.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1047.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1152.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1551.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1245.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file302.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1087.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file178.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1294.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file209.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1018.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1972.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1562.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1530.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1616.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1170.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1510.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1496.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1416.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1827.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file284.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1544.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2301.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1174.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1920.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2014.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1150.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1525.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1292.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file830.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1940.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file801.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2232.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1914.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2027.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2215.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file196.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file442.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2103.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1874.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2058.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file956.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file217.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1801.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1978.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1438.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1867.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1445.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1847.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2115.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file340.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1684.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1501.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1730.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1674.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1644.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file210.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file537.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file920.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1131.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2367.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file658.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file100.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file388.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1693.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1339.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file612.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file262.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1552.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file788.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file680.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file730.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file546.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file72.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2039.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file113.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file260.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1901.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file794.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1687.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file182.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file180.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1162.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file24.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2345.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1999.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1125.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1415.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1421.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file332.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1306.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file369.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1277.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file79.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file932.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file575.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2209.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1675.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1768.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2178.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file184.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1038.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2277.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1106.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file843.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1529.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file230.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1157.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2200.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2227.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file107.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2144.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file817.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1430.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file984.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1330.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file147.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2283.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1773.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file561.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1614.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file89.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2233.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1005.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2254.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file564.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2236.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1377.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1448.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file65.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2181.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2139.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file935.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1521.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1379.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1104.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2261.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file836.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file134.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file605.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1637.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1973.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file633.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file470.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file409.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1270.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2212.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2024.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file583.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1485.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1040.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1657.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1842.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file840.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2304.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file899.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1422.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1613.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file694.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2132.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1019.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file390.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file931.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file851.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file25.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1010.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file87.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1268.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file226.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file660.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file452.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file61.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file485.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2044.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2040.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1631.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file890.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file504.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2022.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file156.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1425.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file625.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1004.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file519.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file127.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file2085.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file394.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1838.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file1263.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+fake/file655.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav

@@ -7,10 +7,12 @@ from torch import nn
 from torch import Tensor
 from torch.utils.data import DataLoader
 import yaml
+import tqdm
 from data_utils_SSL import genSpoof_list,Dataset_ASVspoof2019_train,Dataset_ASVspoof2021_eval
 from model import Model
 from tensorboardX import SummaryWriter
 from core_scripts.startup_config import set_random_seed
+from pytorch_lightning.loggers import WandbLogger
 
 
 __author__ = "Hemlata Tak"
@@ -24,7 +26,7 @@ def evaluate_accuracy(dev_loader, model, device):
     model.eval()
     weight = torch.FloatTensor([0.1, 0.9]).to(device)
     criterion = nn.CrossEntropyLoss(weight=weight)
-    for batch_x, batch_y in dev_loader:
+    for batch_x, batch_y in tqdm.tqdm(dev_loader):
         
         batch_size = batch_x.size(0)
         num_total += batch_size
@@ -81,7 +83,7 @@ def train_epoch(train_loader, model, lr,optim, device):
     weight = torch.FloatTensor([0.1, 0.9]).to(device)
     criterion = nn.CrossEntropyLoss(weight=weight)
     
-    for batch_x, batch_y in train_loader:
+    for batch_x, batch_y in tqdm.tqdm(train_loader):
        
         batch_size = batch_x.size(0)
         num_total += batch_size
@@ -220,6 +222,7 @@ if __name__ == '__main__':
     #database
     prefix_2021 = 'ASVspoof2021.{}'.format(track)
     data_name = 'Custom_Dataset.{}'.format(track)
+    for2seconds_data_name = 'for-2seconds.{}'.format(track)
     train_data_name = 'for-2seconds.{}'.format(track)
     
     #define model saving path
@@ -252,7 +255,7 @@ if __name__ == '__main__':
 
     #evaluation 
     if args.eval:
-        file_eval = genSpoof_list( dir_meta =  os.path.join(args.protocols_path+'ASVspoof_{}_cm_protocols/{}.cm.eval.trl.txt'.format(track,data_name)),is_train=False,is_eval=True)
+        file_eval = genSpoof_list( dir_meta =  os.path.join(args.protocols_path+'ASVspoof_{}_cm_protocols/{}.cm.eval.trl.txt'.format(track,for2seconds_data_name)),is_train=False,is_eval=True)
         print('no. of eval trials',len(file_eval))
         # eval_set=Dataset_ASVspoof2021_eval(list_IDs = file_eval,base_dir = os.path.join(args.database_path+'ASVspoof2021_{}_eval/'.format(args.track)))
         eval_set=Dataset_ASVspoof2021_eval(list_IDs = file_eval,base_dir = args.database_path)
@@ -286,7 +289,8 @@ if __name__ == '__main__':
     del dev_set,d_label_dev
 
     
-    
+    logger = WandbLogger(name=f'=lr={args.lr}_bs={args.batch_size}_me={args.num_epochs}',
+                         project="Speech_A3")
 
     # Training and validation 
     num_epochs = args.num_epochs
