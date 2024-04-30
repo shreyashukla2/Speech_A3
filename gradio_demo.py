@@ -1,50 +1,57 @@
+# pydantic-1.10.7, gradio 3.34 are required
+
 import gradio as gr
 import torch
-from model import Model
 import librosa
 import numpy as np
+from model import Model
 
+# Initialize constants and model
+CKPT = 'models/model_DF_WCE_100_16_1e-06/epoch_49.pth'
+EER = 0.183  # Ensure EER is a float for comparison
 
-## define model and preproc here
-CKPT = ''
-EER = ''
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
-
-device = 'cuda' if torch.cuda.is_available() else 'cpu'    
 model = Model(None, device)
-model.load_state_dict(torch.load(CKPT, map_location=device))
+sd = torch.load(CKPT)
+sd = {k.replace('module.', ''): v for k, v in sd.items()}  # Adjust for DataParallel wrap
+model.load_state_dict(sd)
 model.eval()
 
-
-################################
+model = model.to(device)
 
 def pad(x, max_len=64600):
     x_len = x.shape[0]
     if x_len >= max_len:
         return x[:max_len]
-    # need to pad
-    num_repeats = int(max_len / x_len)+1
-    padded_x = np.tile(x, (1, num_repeats))[:, :max_len][0]
+    # Padding logic if needed
+    num_repeats = (max_len // x_len) + 1
+    padded_x = np.tile(x, num_repeats)[:max_len]
     return padded_x
 
-@torch.no_grad()
-def classify_audio(filepath):
-    audio = librosa.load(filepath, sr=16000)
-    audio = pad(audio, 64600)
-    audio = torch.Tensor(audio, device=device).unsqueeze(0)
+def classify_audio(file_info) -> str:
+    filepath = file_info
+    print("Processing:", filepath)
+    try:
+        audio, sr = librosa.load(filepath, sr=16000)  # Ensure the sample rate is 16000 Hz
+        audio = pad(audio)
+        audio_tensor = torch.Tensor(audio).to(device).unsqueeze(0)  # Add batch dimension
 
-    out = model(audio)
-    out = out[:, 1].data.cpu().numpy().ravel()[0]
+        print('Running model inference...')
+        with torch.no_grad():
+            out = model(audio_tensor)
+        out_score = out[0, 1].item()  # Assuming the second column is the target class
 
-    outputs = {
-        'spoof': out,
-        'real': 1-out
-    }
+        result = "Real" if out_score >= EER else "Spoof"
+        return result + f" (Raw CM score from model: {out_score:.4f})"
+    except Exception as e:
+        return "Error: " + str(e)
 
-    return outputs
-
-
+# Interface
 demo = gr.Interface(
-    fn=classify_audio, inputs=gr.Audio(type="filepath"), outputs=gr.outputs.Label()
+    fn=classify_audio,
+    inputs=gr.Audio(type="filepath"),
+    outputs='text'
 )
-demo.launch(debug=True)
+
+demo.launch(server_port=8000)
