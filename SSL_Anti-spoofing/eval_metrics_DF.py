@@ -1,5 +1,6 @@
 import numpy as np
 import sys
+from sklearn import metrics
 
 def obtain_asv_error_rates(tar_asv, non_asv, spoof_asv, asv_threshold):
 
@@ -46,6 +47,12 @@ def compute_eer(target_scores, nontarget_scores):
     min_index = np.argmin(abs_diffs)
     eer = np.mean((frr[min_index], far[min_index]))
     return eer, thresholds[min_index]
+
+def compute_auc(target_scores, nontarget_scores):
+    all_scores = np.concatenate((target_scores, nontarget_scores))
+    labels = np.concatenate((np.ones(target_scores.size), np.zeros(nontarget_scores.size)))
+    fpr, tpr, thresholds = metrics.roc_curve(labels, all_scores)
+    return metrics.auc(fpr, tpr)
 
 
 def compute_tDCF(bonafide_score_cm, spoof_score_cm, Pfa_asv, Pmiss_asv, Pfa_spoof_asv, cost_model, print_cost):

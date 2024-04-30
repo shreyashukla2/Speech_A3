@@ -52,12 +52,16 @@ def eval_to_score_file(score_file, cm_key_file):
     spoof_cm = cm_scores[cm_scores[4] == 'spoof']['1_x'].values
 
     eer_cm = em.compute_eer(bona_cm, spoof_cm)[0]
-    out_data = "eer: %.2f\n" % (100*eer_cm)
+    auc_cm = em.compute_auc(bona_cm, spoof_cm)
+    out_data = "eer: %.2f\n" % (eer_cm)
+    print(out_data)
+    out_data = "auc: %.2f\n" % (auc_cm)
     print(out_data)
     dic = {
         'bona_cm': str(bona_cm),
         'spoof_cm': str(spoof_cm),
-        'EER': 100*eer_cm
+        'EER': eer_cm,
+        'AUC': auc_cm
     }
     with open('eer_auc_pretrained_custom_dataset.json', 'w') as f:
         json.dump(dic, f, indent=2)
